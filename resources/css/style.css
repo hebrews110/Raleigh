@@ -1,6 +1,5 @@
 * {
   font-family: Helvetica;
-  color: white;
   background-color: black;
 }
 .container {
@@ -8,11 +7,17 @@
   border: 5px solid white;
   margin: 30px auto;
   width: 80%;
+  color: black;
+  background-color: white;
 }
 h1 {
   text-align: center;
+  color: white;
 }
 img {
   display: block;
   margin: auto;
+}
+p {
+  background-color: white;
 }
